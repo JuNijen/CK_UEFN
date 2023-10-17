@@ -1,0 +1,43 @@
+{
+	"fileVersion": 14,
+	"versionSuffix": "",
+	"title": "UEFN1",
+	"description": "",
+	"keyArt": "",
+	"docsUrl": "",
+	"attributions": [],
+	"kind": "Island",
+	"templateCategory": "UserGenerated",
+	"compatibilityVersion": "26.30",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"plugins": [
+		{
+			"name": "UEFN1",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 16,
+			"maxTeamCount": 16,
+			"maxTeamSize": 16,
+			"maxSocialPartySize": 16,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "79d7d211-479e-d26b-1f3a-15bbc97fc09c",
+		"modules":
+		{
+			"UEFN1": "dda9cc72-4800-b794-21ac-abaa0002cf43"
+		}
+	}
+}

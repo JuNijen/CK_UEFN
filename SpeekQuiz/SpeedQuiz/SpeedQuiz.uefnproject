@@ -1,0 +1,42 @@
+{
+	"fileVersion": 14,
+	"versionSuffix": "",
+	"title": "SpeedQuiz",
+	"description": "",
+	"keyArt": "",
+	"docsUrl": "",
+	"kind": "Island",
+	"templateCategory": "UserGenerated",
+	"compatibilityVersion": "26.30",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"plugins": [
+		{
+			"name": "SpeedQuiz",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 16,
+			"maxTeamCount": 1,
+			"maxTeamSize": 16,
+			"maxSocialPartySize": 16,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "8ee99dfa-4a40-a0d6-6775-759fbfc46617",
+		"modules":
+		{
+			"SpeedQuiz": "1b05bddf-4926-e08b-528d-17b471262451"
+		}
+	}
+}
