@@ -1,0 +1,42 @@
+{
+	"fileVersion": 14,
+	"versionSuffix": "",
+	"title": "HalloweenHunter",
+	"description": "",
+	"keyArt": "",
+	"docsUrl": "",
+	"kind": "Island",
+	"templateCategory": "UserGenerated",
+	"compatibilityVersion": "26.30",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"plugins": [
+		{
+			"name": "HalloweenHunter",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 16,
+			"maxTeamCount": 16,
+			"maxTeamSize": 16,
+			"maxSocialPartySize": 16,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "236d15d7-463f-a602-2502-08ad7bd92289",
+		"modules":
+		{
+			"HalloweenHunter": "605b82f7-4805-0f4a-e47f-cb98cdeb31d9"
+		}
+	}
+}
